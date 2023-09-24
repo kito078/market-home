@@ -7,7 +7,9 @@ function Navbar() {
       <ul class="font-medium flex flex-col ">
         <li>
           <FaApple />
-          <a href="#">Home</a>
+          <a href="#" className="8xl">
+            Home
+          </a>
         </li>
       </ul>
     </div>
